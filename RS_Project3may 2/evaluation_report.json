@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "desc": "Python Beginner",
+    "f1": 0.4,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.8,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 2,
+    "desc": "React Developer",
+    "f1": 0.42,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.8,
+    "prog_acc": 0.67,
+    "ndcg": 1.0
+  },
+  {
+    "id": 3,
+    "desc": "Data Science Mid-Level",
+    "f1": 0.1,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.73,
+    "prog_acc": 0.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 4,
+    "desc": "DevOps Engineer",
+    "f1": 0.2,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.8,
+    "prog_acc": 0.67,
+    "ndcg": 1.0
+  },
+  {
+    "id": 5,
+    "desc": "Full Stack Node.js",
+    "f1": 0.5,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.8,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 6,
+    "desc": "Java Backend Developer",
+    "f1": 0.24,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.8,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 7,
+    "desc": "Cloud Infrastructure",
+    "f1": 0.4,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.73,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 8,
+    "desc": "Go Backend Dev",
+    "f1": 0.21,
+    "hr": 1.0,
+    "mrr": 0.33,
+    "sem_rel": 0.4,
+    "prog_acc": 0.67,
+    "ndcg": 1.0
+  },
+  {
+    "id": 9,
+    "desc": "C++ Game Dev",
+    "f1": 0.0,
+    "hr": 0.0,
+    "mrr": 0.0,
+    "sem_rel": 0.8,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 10,
+    "desc": "iOS Developer",
+    "f1": 0.3,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.8,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 11,
+    "desc": "Data Engineer",
+    "f1": 0.0,
+    "hr": 0.0,
+    "mrr": 0.0,
+    "sem_rel": 0.8,
+    "prog_acc": 0.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 12,
+    "desc": "Machine Learning Beginner",
+    "f1": 0.32,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.8,
+    "prog_acc": 0.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 14,
+    "desc": "Cybersecurity Analyst",
+    "f1": 0.0,
+    "hr": 0.0,
+    "mrr": 0.0,
+    "sem_rel": 0.8,
+    "prog_acc": 0.67,
+    "ndcg": 1.0
+  },
+  {
+    "id": 15,
+    "desc": "Frontend Angular Dev",
+    "f1": 0.3,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.8,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 16,
+    "desc": "Backend Ruby Dev",
+    "f1": 0.33,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.87,
+    "prog_acc": 1.0,
+    "ndcg": 0.95
+  },
+  {
+    "id": 17,
+    "desc": "Vue.js Developer",
+    "f1": 0.3,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.8,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 18,
+    "desc": "QA Automation Engineer",
+    "f1": 0.2,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.8,
+    "prog_acc": 0.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 19,
+    "desc": "PHP Developer",
+    "f1": 0.5,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.67,
+    "prog_acc": 0.67,
+    "ndcg": 0.95
+  },
+  {
+    "id": 20,
+    "desc": "Cloud Architect AWS",
+    "f1": 0.2,
+    "hr": 1.0,
+    "mrr": 0.33,
+    "sem_rel": 0.67,
+    "prog_acc": 0.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 21,
+    "desc": "Azure Developer",
+    "f1": 0.42,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.67,
+    "prog_acc": 0.33,
+    "ndcg": 1.0
+  },
+  {
+    "id": 22,
+    "desc": "Blockchain Dev",
+    "f1": 0.21,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.67,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 23,
+    "desc": "Computer Vision",
+    "f1": 0.0,
+    "hr": 0.0,
+    "mrr": 0.0,
+    "sem_rel": 0.67,
+    "prog_acc": 0.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 24,
+    "desc": "NLP Engineer",
+    "f1": 0.1,
+    "hr": 1.0,
+    "mrr": 0.2,
+    "sem_rel": 0.67,
+    "prog_acc": 0.0,
+    "ndcg": 0.95
+  },
+  {
+    "id": 25,
+    "desc": "MLOps Engineer",
+    "f1": 0.2,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.67,
+    "prog_acc": 0.0,
+    "ndcg": 0.95
+  },
+  {
+    "id": 26,
+    "desc": "Data Analyst",
+    "f1": 0.42,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.67,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 27,
+    "desc": "SRE Engineer",
+    "f1": 0.2,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.67,
+    "prog_acc": 0.67,
+    "ndcg": 1.0
+  },
+  {
+    "id": 28,
+    "desc": "Embedded Systems",
+    "f1": 0.3,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.53,
+    "prog_acc": 0.0,
+    "ndcg": 0.92
+  },
+  {
+    "id": 29,
+    "desc": "Unity Game Dev",
+    "f1": 0.12,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.7,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 30,
+    "desc": "C# .NET Dev",
+    "f1": 0.33,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.67,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 31,
+    "desc": "Android Developer",
+    "f1": 0.11,
+    "hr": 1.0,
+    "mrr": 0.25,
+    "sem_rel": 0.67,
+    "prog_acc": 1.0,
+    "ndcg": 0.95
+  },
+  {
+    "id": 32,
+    "desc": "Python Web Scraper",
+    "f1": 0.21,
+    "hr": 1.0,
+    "mrr": 0.33,
+    "sem_rel": 0.67,
+    "prog_acc": 0.0,
+    "ndcg": 0.93
+  },
+  {
+    "id": 33,
+    "desc": "Flutter Developer",
+    "f1": 0.35,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.6,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 34,
+    "desc": "Big Data Hadoop",
+    "f1": 0.11,
+    "hr": 1.0,
+    "mrr": 0.2,
+    "sem_rel": 0.67,
+    "prog_acc": 0.33,
+    "ndcg": 1.0
+  },
+  {
+    "id": 35,
+    "desc": "Backend Elixir Dev",
+    "f1": 0.25,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.7,
+    "prog_acc": 0.5,
+    "ndcg": 1.0
+  },
+  {
+    "id": 36,
+    "desc": "Graphic/Web Design",
+    "f1": 0.22,
+    "hr": 1.0,
+    "mrr": 0.5,
+    "sem_rel": 0.67,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  },
+  {
+    "id": 37,
+    "desc": "React Native Dev",
+    "f1": 0.33,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.67,
+    "prog_acc": 0.67,
+    "ndcg": 1.0
+  },
+  {
+    "id": 38,
+    "desc": "Shell Scripter",
+    "f1": 0.35,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.67,
+    "prog_acc": 0.67,
+    "ndcg": 1.0
+  },
+  {
+    "id": 40,
+    "desc": "TypeScript Expert",
+    "f1": 0.2,
+    "hr": 1.0,
+    "mrr": 1.0,
+    "sem_rel": 0.67,
+    "prog_acc": 1.0,
+    "ndcg": 1.0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "description": "Python Beginner",
+    "input": ["Python"],
+    "ground_truth": ["pandas", "flask", "django", "sql", "git", "numpy", "pytest", "fastapi", "poetry", "docker", "matplotlib", "seaborn", "jupyter", "sqlalchemy", "bash"],
+    "expected_difficulty_range": [1, 3]
+  },
+  {
+    "id": 2,
+    "description": "React Developer",
+    "input": ["React", "JavaScript"],
+    "ground_truth": ["typescript", "next.js", "node.js", "redux", "jest", "tailwind css", "graphql", "vite", "zustand", "react router", "cypress", "vitest", "framer motion", "webpack", "babel"],
+    "expected_difficulty_range": [3, 4]
+  },
+  {
+    "id": 3,
+    "description": "Data Science Mid-Level",
+    "input": ["Python", "Pandas", "Scikit-learn"],
+    "ground_truth": ["tensorflow", "pytorch", "apache spark", "docker", "mlops", "aws", "xgboost", "sql", "kubernetes", "fastapi", "airflow", "snowflake", "databricks", "mlflow", "keras"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 4,
+    "description": "DevOps Engineer",
+    "input": ["Docker", "Linux"],
+    "ground_truth": ["kubernetes", "aws", "terraform", "ci/cd", "jenkins", "ansible", "prometheus", "grafana", "github actions", "gitlab ci", "bash", "python", "helm", "azure", "gcp"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 5,
+    "description": "Full Stack Node.js",
+    "input": ["HTML", "CSS", "JavaScript", "Node.js"],
+    "ground_truth": ["express", "mongodb", "react", "postgresql", "docker", "rest apis", "typescript", "graphql", "redis", "nginx", "aws", "nest.js", "jest", "next.js", "jwt"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 6,
+    "description": "Java Backend Developer",
+    "input": ["Java"],
+    "ground_truth": ["spring boot", "hibernate", "sql", "docker", "maven", "kafka", "gradle", "postgresql", "microservices", "redis", "kubernetes", "junit", "mockito", "aws", "rest apis"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 7,
+    "description": "Cloud Infrastructure",
+    "input": ["AWS", "Networking"],
+    "ground_truth": ["kubernetes", "terraform", "docker", "gcp", "azure", "linux", "ansible", "cloudformation", "bash", "python", "ci/cd", "prometheus", "grafana", "iam", "vpc"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 8,
+    "description": "Go Backend Dev",
+    "input": ["Go"],
+    "ground_truth": ["grpc", "docker", "kubernetes", "postgresql", "microservices", "redis", "kafka", "aws", "rest apis", "gin", "echo", "mongodb", "graphql", "sql", "ci/cd"],
+    "expected_difficulty_range": [3, 4]
+  },
+  {
+    "id": 9,
+    "description": "C++ Game Dev",
+    "input": ["C++"],
+    "ground_truth": ["unreal engine", "opengl", "cmake", "data structures", "git", "vulkan", "directx", "physics programming", "math", "multithreading", "memory management", "c#", "unity", "game design"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 10,
+    "description": "iOS Developer",
+    "input": ["Swift"],
+    "ground_truth": ["swiftui", "core data", "combine", "xcode", "objective-c", "uikit", "cocoapods", "spm", "realm", "firebase", "rest apis", "git", "ci/cd", "fastlane", "app store connect"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 11,
+    "description": "Data Engineer",
+    "input": ["SQL", "Python"],
+    "ground_truth": ["apache kafka", "airflow", "snowflake", "spark", "hadoop", "aws", "dbt", "docker", "kubernetes", "gcp", "redshift", "bigquery", "scala", "databricks", "etl"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 12,
+    "description": "Machine Learning Beginner",
+    "input": ["Math", "Python"],
+    "ground_truth": ["scikit-learn", "pandas", "numpy", "matplotlib", "jupyter", "seaborn", "sql", "git", "pytorch", "tensorflow", "statistics", "data preprocessing", "xgboost", "linear algebra"],
+    "expected_difficulty_range": [2, 3]
+  },
+  {
+    "id": 13,
+    "description": "Rust Systems Engineer",
+    "input": ["Rust"],
+    "ground_truth": ["webassembly", "tokio", "cargo", "c", "linux", "c++", "multithreading", "memory safety", "networking", "git", "docker", "kubernetes", "bash", "system programming", "grpc"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 14,
+    "description": "Cybersecurity Analyst",
+    "input": ["Linux", "Networking"],
+    "ground_truth": ["penetration testing", "wireshark", "cryptography", "bash", "python", "kali linux", "nmap", "metasploit", "firewalls", "siem", "aws", "active directory", "malware analysis", "soc", "incident response"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 15,
+    "description": "Frontend Angular Dev",
+    "input": ["Angular", "JavaScript"],
+    "ground_truth": ["rxjs", "typescript", "ngrx", "html", "css", "sass", "karma", "jasmine", "webpack", "git", "rest apis", "node.js", "bootstrap", "tailwind css", "cypress"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 16,
+    "description": "Backend Ruby Dev",
+    "input": ["Ruby"],
+    "ground_truth": ["ruby on rails", "postgresql", "redis", "rspec", "docker", "sidekiq", "graphql", "aws", "git", "html", "css", "javascript", "ci/cd", "heroku", "elasticsearch"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 17,
+    "description": "Vue.js Developer",
+    "input": ["Vue.js", "JavaScript"],
+    "ground_truth": ["nuxt.js", "vuex", "typescript", "vite", "pinia", "html", "css", "tailwind css", "vitest", "cypress", "webpack", "rest apis", "node.js", "graphql", "git"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 18,
+    "description": "QA Automation Engineer",
+    "input": ["Testing", "Python"],
+    "ground_truth": ["selenium", "cypress", "pytest", "ci/cd", "jenkins", "playwright", "appium", "postman", "git", "docker", "java", "javascript", "github actions", "sql", "jira"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 19,
+    "description": "PHP Developer",
+    "input": ["PHP"],
+    "ground_truth": ["laravel", "mysql", "docker", "redis", "symfony", "composer", "git", "html", "css", "javascript", "vue.js", "react", "postgresql", "aws", "nginx"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 20,
+    "description": "Cloud Architect AWS",
+    "input": ["AWS", "Terraform"],
+    "ground_truth": ["aws lambda", "dynamodb", "kubernetes", "system design", "docker", "python", "bash", "ci/cd", "networking", "iam", "eks", "ecs", "s3", "rds", "cloudwatch"],
+    "expected_difficulty_range": [4, 5]
+  },
+  {
+    "id": 21,
+    "description": "Azure Developer",
+    "input": ["C#", "Azure"],
+    "ground_truth": ["azure devops", ".net core", "docker", "sql server", "kubernetes", "entity framework", "azure functions", "cosmos db", "git", "ci/cd", "terraform", "bicep", "microservices", "azure ad"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 22,
+    "description": "Blockchain Dev",
+    "input": ["JavaScript", "Cryptography"],
+    "ground_truth": ["solidity", "web3.js", "ethereum", "smart contracts", "rust", "ethers.js", "hardhat", "truffle", "node.js", "react", "ipfs", "go", "defi", "bitcoin", "zkp"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 23,
+    "description": "Computer Vision",
+    "input": ["Python", "Deep Learning"],
+    "ground_truth": ["opencv", "pytorch", "yolo", "tensorflow", "cuda", "cnn", "image processing", "numpy", "matplotlib", "scikit-learn", "keras", "c++", "tensorrt", "docker", "aws"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 24,
+    "description": "NLP Engineer",
+    "input": ["Python", "Machine Learning"],
+    "ground_truth": ["hugging face", "transformers", "pytorch", "nltk", "spacy", "tensorflow", "llms", "langchain", "prompt engineering", "openai api", "numpy", "pandas", "docker", "fastapi", "aws"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 25,
+    "description": "MLOps Engineer",
+    "input": ["Machine Learning", "Docker"],
+    "ground_truth": ["kubeflow", "kubernetes", "mlflow", "aws", "terraform", "python", "ci/cd", "github actions", "prometheus", "grafana", "pytorch", "fastapi", "bash", "linux", "gcp"],
+    "expected_difficulty_range": [4, 5]
+  },
+  {
+    "id": 26,
+    "description": "Data Analyst",
+    "input": ["Excel"],
+    "ground_truth": ["sql", "tableau", "python", "power bi", "pandas", "matplotlib", "seaborn", "statistics", "data visualization", "google analytics", "r", "jupyter", "snowflake", "bigquery"],
+    "expected_difficulty_range": [1, 3]
+  },
+  {
+    "id": 27,
+    "description": "SRE Engineer",
+    "input": ["Linux", "Docker"],
+    "ground_truth": ["prometheus", "grafana", "kubernetes", "terraform", "go", "python", "bash", "aws", "ci/cd", "ansible", "incident response", "networking", "datadog", "elk stack", "gcp"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 28,
+    "description": "Embedded Systems",
+    "input": ["C"],
+    "ground_truth": ["c++", "rtos", "linux", "assembly", "microcontrollers", "arm", "python", "iot", "git", "electronics", "spi", "i2c", "uart", "cmake", "rust"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 29,
+    "description": "Unity Game Dev",
+    "input": ["Unity"],
+    "ground_truth": ["c#", "3d modeling", "blender", "game design", "git", "shader graph", "vr/ar", "multiplayer", "c++", "physics", "ui design", "animation", "unreal engine", "math"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 30,
+    "description": "C# .NET Dev",
+    "input": ["C#"],
+    "ground_truth": [".net core", "entity framework", "sql server", "azure", "docker", "asp.net", "git", "rest apis", "microservices", "kubernetes", "xunit", "blazor", "javascript", "html", "css"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 31,
+    "description": "Android Developer",
+    "input": ["Kotlin"],
+    "ground_truth": ["jetpack compose", "android studio", "coroutine", "firebase", "java", "room", "retrofit", "dagger/hilt", "mvvm", "git", "ci/cd", "rest apis", "sqlite", "rxjava"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 32,
+    "description": "Python Web Scraper",
+    "input": ["Python", "HTML"],
+    "ground_truth": ["beautifulsoup", "scrapy", "selenium", "regex", "requests", "playwright", "pandas", "sql", "mongodb", "docker", "api integration", "proxies", "aws", "cron"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 33,
+    "description": "Flutter Developer",
+    "input": ["Dart"],
+    "ground_truth": ["flutter", "firebase", "state management", "rest apis", "sqlite", "provider", "riverpod", "bloc", "git", "ui/ux design", "ci/cd", "kotlin", "swift", "graphql"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 34,
+    "description": "Big Data Hadoop",
+    "input": ["Java", "SQL"],
+    "ground_truth": ["hadoop", "hive", "spark", "kafka", "scala", "python", "aws", "airflow", "docker", "kubernetes", "hbase", "cassandra", "gcp", "databricks"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 35,
+    "description": "Backend Elixir Dev",
+    "input": ["Elixir"],
+    "ground_truth": ["phoenix", "erlang", "postgresql", "graphql", "docker", "redis", "git", "rest apis", "kubernetes", "aws", "ci/cd", "ecto", "liveview", "websockets"],
+    "expected_difficulty_range": [3, 5]
+  },
+  {
+    "id": 36,
+    "description": "Graphic/Web Design",
+    "input": ["Figma"],
+    "ground_truth": ["html", "css", "ui/ux design", "adobe xd", "javascript", "tailwind css", "react", "illustrator", "photoshop", "wireframing", "prototyping", "webflow", "wordpress", "accessibility"],
+    "expected_difficulty_range": [1, 3]
+  },
+  {
+    "id": 37,
+    "description": "React Native Dev",
+    "input": ["React", "JavaScript"],
+    "ground_truth": ["react native", "expo", "redux", "ios", "android", "typescript", "navigation", "firebase", "rest apis", "jest", "detox", "tailwind css", "graphql", "git"],
+    "expected_difficulty_range": [3, 4]
+  },
+  {
+    "id": 38,
+    "description": "Shell Scripter",
+    "input": ["Bash"],
+    "ground_truth": ["linux", "awk", "sed", "python", "networking", "docker", "git", "ssh", "cron", "vim", "ansible", "aws", "kubernetes", "terraform"],
+    "expected_difficulty_range": [2, 4]
+  },
+  {
+    "id": 39,
+    "description": "Software Architect",
+    "input": ["System Design"],
+    "ground_truth": ["microservices", "kubernetes", "aws", "docker", "postgresql", "redis", "kafka", "graphql", "gcp", "azure", "terraform", "ci/cd", "security", "performance tuning", "go", "java"],
+    "expected_difficulty_range": [4, 5]
+  },
+  {
+    "id": 40,
+    "description": "TypeScript Expert",
+    "input": ["TypeScript", "Node.js"],
+    "ground_truth": ["graphql", "nest.js", "docker", "react", "jest", "postgresql", "redis", "aws", "next.js", "kubernetes", "microservices", "ci/cd", "mongodb", "webpack", "vite"],
+    "expected_difficulty_range": [3, 5]
+  }
+]

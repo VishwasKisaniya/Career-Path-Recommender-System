@@ -1,0 +1,490 @@
+skills:
+  - from: Python
+    from_difficulty: 2
+    to: NumPy
+    to_difficulty: 2
+    track: Data
+    reason: NumPy is the backbone of data science in Python — it enables fast array operations and mathematical computing that Pandas, Scikit-learn, and TensorFlow all depend on internally.
+
+  - from: Python
+    from_difficulty: 2
+    to: Pandas
+    to_difficulty: 2
+    track: Data
+    reason: Pandas is your primary tool for reading, cleaning, and transforming real-world datasets before any analysis or model training — nearly every data project starts here.
+
+  - from: Python
+    from_difficulty: 2
+    to: Django
+    to_difficulty: 3
+    track: Web
+    reason: Django gives you a complete web framework with built-in authentication, ORM, and admin panel — ideal for building production-grade web applications rapidly with Python.
+
+  - from: Python
+    from_difficulty: 2
+    to: Flask
+    to_difficulty: 2
+    track: Web
+    reason: Flask lets you build lightweight REST APIs and microservices with minimal setup — a must-know for backend developers who need flexibility without the overhead of a full framework.
+
+  - from: Python
+    from_difficulty: 2
+    to: FastAPI
+    to_difficulty: 3
+    track: Web
+    reason: FastAPI is the modern choice for building high-performance APIs in Python — it offers automatic documentation, async support, and type validation, making it faster than Flask for most API use cases.
+
+  - from: Python
+    from_difficulty: 2
+    to: Scikit-learn
+    to_difficulty: 3
+    track: Machine Learning
+    reason: Scikit-learn is the standard library for classical ML — it provides ready-to-use implementations of regression, classification, clustering, and model evaluation tools used in most real-world ML pipelines.
+
+  - from: Python
+    from_difficulty: 2
+    to: TensorFlow
+    to_difficulty: 4
+    track: Machine Learning
+    reason: TensorFlow is Google's production-grade deep learning framework — learning it opens doors to building neural networks, deploying models at scale, and working on industry ML systems.
+
+  - from: Python
+    from_difficulty: 2
+    to: PyTorch
+    to_difficulty: 4
+    track: Machine Learning
+    reason: PyTorch is the dominant framework in AI research and increasingly in industry — its dynamic computation graph makes it intuitive for building and debugging complex neural network architectures.
+
+  - from: SQL
+    from_difficulty: 2
+    to: PostgreSQL
+    to_difficulty: 3
+    track: Data
+    reason: PostgreSQL is the most feature-rich open-source relational database — it adds JSON support, advanced indexing, and transactions on top of SQL, making it the preferred choice for serious backend systems.
+
+  - from: SQL
+    from_difficulty: 2
+    to: MySQL
+    to_difficulty: 2
+    track: Data
+    reason: MySQL powers millions of web applications and is deeply integrated with PHP, Node.js, and Python stacks — knowing it is essential for working on any existing web backend.
+
+  - from: HTML
+    from_difficulty: 1
+    to: CSS
+    to_difficulty: 1
+    track: Web
+    reason: CSS is inseparable from HTML — without it, your web pages have no layout, color, or visual structure. Every frontend developer must master CSS to build anything presentable.
+
+  - from: CSS
+    from_difficulty: 1
+    to: JavaScript
+    to_difficulty: 2
+    track: Web
+    reason: JavaScript transforms static pages into interactive applications — it handles user events, API calls, and DOM manipulation, making it the most essential skill in all of web development.
+
+  - from: JavaScript
+    from_difficulty: 2
+    to: React
+    to_difficulty: 3
+    track: Web
+    reason: React is the most in-demand frontend skill in the job market — it introduces component-based thinking that makes building and maintaining complex UIs significantly more manageable.
+
+  - from: JavaScript
+    from_difficulty: 2
+    to: Node.js
+    to_difficulty: 3
+    track: Web
+    reason: Node.js lets you use JavaScript on the server side — enabling full-stack development with a single language and unlocking backend skills like API design, file handling, and database integration.
+
+  - from: React
+    from_difficulty: 3
+    to: Next.js
+    to_difficulty: 4
+    track: Web
+    reason: Next.js adds server-side rendering, static generation, and file-based routing to React — it significantly improves SEO and performance and is now the standard for production React applications.
+
+  - from: Node.js
+    from_difficulty: 3
+    to: Express.js
+    to_difficulty: 3
+    track: Web
+    reason: Express.js is the most widely used Node.js framework — it provides routing, middleware, and request handling that you'll encounter in nearly every Node.js codebase in the industry.
+
+  - from: Git
+    from_difficulty: 1
+    to: GitHub
+    to_difficulty: 1
+    track: Tools
+    reason: GitHub is where the entire software world collaborates — it's required for contributing to open source, working in teams, and building a portfolio that employers actually look at.
+
+  - from: GitHub
+    from_difficulty: 1
+    to: CI/CD
+    to_difficulty: 3
+    track: DevOps
+    reason: CI/CD automates testing and deployment every time you push code — it eliminates manual errors, speeds up delivery, and is now expected in every professional software team.
+
+  - from: Docker
+    from_difficulty: 3
+    to: Kubernetes
+    to_difficulty: 4
+    track: DevOps
+    reason: Kubernetes is the industry standard for running containers at scale — once you containerize apps with Docker, Kubernetes handles orchestration, scaling, and self-healing across clusters automatically.
+
+  - from: AWS
+    from_difficulty: 3
+    to: Azure
+    to_difficulty: 3
+    track: Cloud
+    reason: Azure is Microsoft's cloud platform and dominates enterprise environments — knowing both AWS and Azure makes you significantly more versatile and employable in cloud and DevOps roles.
+
+  - from: Data Structures
+    from_difficulty: 2
+    to: Algorithms
+    to_difficulty: 3
+    track: Core
+    reason: Algorithms are how you solve complex problems efficiently using data structures — they are the foundation of technical interviews and the key to writing code that scales.
+
+  - from: Algorithms
+    from_difficulty: 3
+    to: System Design
+    to_difficulty: 4
+    track: Core
+    reason: System design teaches you how to architect large-scale distributed systems — it's what separates junior developers from senior ones and is heavily tested in interviews at top companies.
+
+  - from: Machine Learning
+    from_difficulty: 3
+    to: Deep Learning
+    to_difficulty: 4
+    track: Machine Learning
+    reason: Deep learning powers modern AI breakthroughs — computer vision, speech recognition, and large language models all rely on neural networks that build directly on your ML foundation.
+
+  - from: Deep Learning
+    from_difficulty: 4
+    to: NLP
+    to_difficulty: 4
+    track: Machine Learning
+    reason: NLP enables machines to understand and generate human language — it's behind chatbots, search engines, translation, and the most exciting AI applications being built today.
+
+  - from: Deep Learning
+    from_difficulty: 4
+    to: Computer Vision
+    to_difficulty: 4
+    track: Machine Learning
+    reason: Computer vision gives machines the ability to interpret images and video — it powers self-driving cars, medical imaging, and face recognition, making it one of the highest-demand AI specializations.
+
+  - from: JavaScript
+    from_difficulty: 2
+    to: TypeScript
+    to_difficulty: 3
+    track: Web
+    reason: TypeScript catches bugs at compile time that JavaScript misses at runtime — it's now the default choice for large-scale JavaScript projects and is required at most serious tech companies.
+
+  - from: React
+    from_difficulty: 3
+    to: Redux
+    to_difficulty: 3
+    track: Web
+    reason: Redux provides predictable, centralized state management for complex React apps — once your application grows beyond a few components, managing state without Redux becomes very difficult.
+
+  - from: React
+    from_difficulty: 3
+    to: Tailwind CSS
+    to_difficulty: 2
+    track: Web
+    reason: Tailwind CSS lets you build beautiful, responsive UIs directly in JSX without writing separate CSS files — it dramatically speeds up frontend development and is widely adopted in the React ecosystem.
+
+  - from: Node.js
+    from_difficulty: 3
+    to: REST APIs
+    to_difficulty: 3
+    track: Web
+    reason: REST API design is the core skill of backend development — understanding HTTP methods, status codes, authentication, and resource modeling is required for any backend or full-stack role.
+
+  - from: Node.js
+    from_difficulty: 3
+    to: MongoDB
+    to_difficulty: 3
+    track: Web
+    reason: MongoDB is the most popular NoSQL database and the M in the MERN stack — its document-based model pairs naturally with JavaScript and is ideal for flexible, rapidly evolving data structures.
+
+  - from: Node.js
+    from_difficulty: 3
+    to: GraphQL
+    to_difficulty: 3
+    track: Web
+    reason: GraphQL lets clients request exactly the data they need in a single query — it solves over-fetching and under-fetching problems common with REST and is increasingly adopted by modern APIs.
+
+  - from: SQL
+    from_difficulty: 2
+    to: Database Design
+    to_difficulty: 3
+    track: Data
+    reason: Good database design prevents performance bottlenecks and data integrity issues before they happen — understanding normalization, relationships, and indexing strategies is what makes the difference between a good and a poor backend.
+
+  - from: PostgreSQL
+    from_difficulty: 3
+    to: Indexing
+    to_difficulty: 3
+    track: Data
+    reason: Indexing can make queries run 100x faster on large tables — understanding when and how to index is one of the most impactful database optimization skills you can develop.
+
+  - from: MySQL
+    from_difficulty: 2
+    to: Query Optimization
+    to_difficulty: 3
+    track: Data
+    reason: Poorly written queries are a leading cause of slow applications — learning to read execution plans, avoid N+1 problems, and restructure queries is critical for any backend developer.
+
+  - from: MongoDB
+    from_difficulty: 3
+    to: NoSQL Design
+    to_difficulty: 3
+    track: Data
+    reason: NoSQL design requires a fundamentally different mindset than relational databases — learning to model documents, embed vs reference data, and design for query patterns prevents severe performance issues later.
+
+  - from: Python
+    from_difficulty: 2
+    to: AsyncIO
+    to_difficulty: 3
+    track: Systems
+    reason: AsyncIO allows Python to handle thousands of concurrent operations without threads — essential for building high-performance APIs, web scrapers, and real-time systems that can't block on I/O.
+
+  - from: Python
+    from_difficulty: 2
+    to: Celery
+    to_difficulty: 3
+    track: Systems
+    reason: Celery handles background jobs and task queues — critical for offloading heavy work like sending emails, processing files, or running ML inference without slowing down your web server.
+
+  - from: Django
+    from_difficulty: 3
+    to: Django REST Framework
+    to_difficulty: 3
+    track: Web
+    reason: Django REST Framework is the standard way to build APIs in Django — it adds serialization, authentication, and viewsets that make exposing your Django models as a REST API straightforward and production-ready.
+
+  - from: Flask
+    from_difficulty: 2
+    to: Flask RESTful
+    to_difficulty: 3
+    track: Web
+    reason: Flask RESTful brings structured resource-based API design to Flask — it reduces boilerplate, enforces REST conventions, and makes your Flask APIs easier to maintain and extend.
+
+  - from: FastAPI
+    from_difficulty: 3
+    to: Pydantic
+    to_difficulty: 3
+    track: Web
+    reason: Pydantic is the data validation engine behind FastAPI — mastering it lets you define robust input/output schemas, handle type coercion automatically, and write much cleaner API code.
+
+  - from: Git
+    from_difficulty: 1
+    to: Git Branching
+    to_difficulty: 2
+    track: Tools
+    reason: Branching lets multiple developers work in parallel without breaking each other's code — understanding branching strategies like Git Flow is essential for working effectively in any team.
+
+  - from: GitHub
+    from_difficulty: 1
+    to: GitHub Actions
+    to_difficulty: 3
+    track: DevOps
+    reason: GitHub Actions lets you automate testing, linting, and deployment directly from your repository — it's the fastest way to set up CI/CD and is now the default automation tool for most open-source and startup projects.
+
+  - from: CI/CD
+    from_difficulty: 3
+    to: Jenkins
+    to_difficulty: 3
+    track: DevOps
+    reason: Jenkins is the most widely deployed CI/CD server in enterprise environments — knowing it lets you work in large organizations where GitHub Actions isn't available and complex multi-stage pipelines are required.
+
+  - from: Docker
+    from_difficulty: 3
+    to: Docker Compose
+    to_difficulty: 3
+    track: DevOps
+    reason: Docker Compose lets you define and run multi-container applications with a single file — it's the standard way to run local development environments involving a backend, database, and cache simultaneously.
+
+  - from: Docker
+    from_difficulty: 3
+    to: CI/CD
+    to_difficulty: 3
+    track: DevOps
+    reason: Docker containers make CI/CD pipelines consistent and reproducible — integrating Docker with your pipeline ensures that what runs in development behaves identically in staging and production.
+
+  - from: Kubernetes
+    from_difficulty: 4
+    to: Helm
+    to_difficulty: 4
+    track: DevOps
+    reason: Helm is the package manager for Kubernetes — it lets you template, version, and share complex Kubernetes deployments, making it much easier to manage applications across multiple environments.
+
+  - from: Kubernetes
+    from_difficulty: 4
+    to: Service Mesh
+    to_difficulty: 5
+    track: DevOps
+    reason: Service meshes like Istio handle traffic management, mTLS encryption, and observability between microservices automatically — critical for securing and monitoring large-scale distributed systems.
+
+  - from: AWS
+    from_difficulty: 3
+    to: Docker
+    to_difficulty: 3
+    track: Cloud
+    reason: Docker is the foundation of modern cloud deployment on AWS — ECS, EKS, and Lambda Container all require containerization, making Docker knowledge a prerequisite for advanced AWS work.
+
+  - from: AWS
+    from_difficulty: 3
+    to: Kubernetes
+    to_difficulty: 4
+    track: Cloud
+    reason: AWS EKS is one of the most used managed Kubernetes services — combining AWS knowledge with Kubernetes skills makes you highly capable of designing production-grade cloud-native architectures.
+
+  - from: AWS
+    from_difficulty: 3
+    to: Terraform
+    to_difficulty: 4
+    track: Cloud
+    reason: Terraform lets you define your entire AWS infrastructure as code — enabling version control, reproducibility, and automation of cloud resources instead of manually clicking through the AWS console.
+
+  - from: Linux
+    from_difficulty: 2
+    to: Shell Scripting
+    to_difficulty: 3
+    track: Systems
+    reason: Shell scripting automates repetitive tasks on Linux servers — from backups to deployment scripts, it's a foundational skill for any developer working in a cloud or DevOps environment.
+
+  - from: Linux
+    from_difficulty: 2
+    to: Networking Basics
+    to_difficulty: 2
+    track: Systems
+    reason: Networking fundamentals like DNS, HTTP, and ports explain how your applications actually communicate — without this knowledge, debugging connectivity issues in production becomes guesswork.
+
+  - from: Networking Basics
+    from_difficulty: 2
+    to: TCP/IP
+    to_difficulty: 3
+    track: Systems
+    reason: TCP/IP is the protocol stack that powers the internet — understanding it deeply helps you diagnose latency issues, design reliable distributed systems, and understand what happens beneath every API call.
+
+  - from: Operating Systems
+    from_difficulty: 2
+    to: Process Management
+    to_difficulty: 3
+    track: Systems
+    reason: Understanding processes, threads, and scheduling helps you write more efficient programs and diagnose performance issues caused by CPU contention, deadlocks, or memory leaks.
+
+  - from: Operating Systems
+    from_difficulty: 2
+    to: Memory Management
+    to_difficulty: 3
+    track: Systems
+    reason: Memory management knowledge lets you understand heap vs stack, garbage collection, and memory leaks — skills that matter most when optimizing performance-critical applications or working in systems programming.
+
+  - from: Data Structures
+    from_difficulty: 2
+    to: Graph Algorithms
+    to_difficulty: 3
+    track: Core
+    reason: Graph algorithms solve real problems like shortest paths, network flow, and dependency resolution — they appear in everything from social networks to recommendation systems to your own project's skill graph.
+
+  - from: Algorithms
+    from_difficulty: 3
+    to: Dynamic Programming
+    to_difficulty: 4
+    track: Core
+    reason: Dynamic programming is one of the most powerful algorithmic techniques — it converts exponential problems into polynomial ones and appears in a large proportion of hard coding interview questions.
+
+  - from: System Design
+    from_difficulty: 4
+    to: Microservices
+    to_difficulty: 4
+    track: Core
+    reason: Microservices decompose large systems into independently deployable services — understanding when to use them, how to split domains, and how to handle distributed state is what senior engineers are expected to know.
+
+  - from: Microservices
+    from_difficulty: 4
+    to: API Gateway
+    to_difficulty: 4
+    track: Core
+    reason: An API Gateway is the single entry point for all client requests in a microservices architecture — it handles routing, authentication, rate limiting, and load balancing so individual services don't have to.
+
+  - from: Machine Learning
+    from_difficulty: 3
+    to: Feature Engineering
+    to_difficulty: 3
+    track: Machine Learning
+    reason: Feature engineering often has more impact on model accuracy than the choice of algorithm — learning to transform raw data into meaningful inputs is what separates good ML practitioners from those who just run default models.
+
+  - from: Machine Learning
+    from_difficulty: 3
+    to: Model Evaluation
+    to_difficulty: 3
+    track: Machine Learning
+    reason: Choosing the wrong evaluation metric can make a bad model look great — understanding precision, recall, AUC-ROC, and cross-validation is essential for making honest assessments of ML system performance.
+
+  - from: Deep Learning
+    from_difficulty: 4
+    to: CNN
+    to_difficulty: 4
+    track: Machine Learning
+    reason: CNNs are the architecture behind all modern computer vision systems — learning them gives you the tools to build image classifiers, object detectors, and medical imaging models used in production today.
+
+  - from: Deep Learning
+    from_difficulty: 4
+    to: RNN
+    to_difficulty: 4
+    track: Machine Learning
+    reason: RNNs process sequential data by maintaining memory across time steps — they are the foundational architecture for time series forecasting, speech recognition, and text generation before Transformers.
+
+  - from: NLP
+    from_difficulty: 4
+    to: Transformers
+    to_difficulty: 5
+    track: Machine Learning
+    reason: Transformers are the architecture behind GPT, BERT, and every modern large language model — understanding them is now essential for anyone working in AI, as they have replaced RNNs across nearly all NLP tasks.
+
+  - from: Testing Basics
+    from_difficulty: 1
+    to: Unit Testing
+    to_difficulty: 2
+    track: Automation
+    reason: Unit testing lets you verify each function works correctly in isolation — it's the first line of defence against bugs and makes refactoring code significantly safer and less stressful.
+
+  - from: Unit Testing
+    from_difficulty: 2
+    to: Integration Testing
+    to_difficulty: 3
+    track: Automation
+    reason: Integration testing verifies that your individual components work correctly when connected together — it catches bugs that unit tests miss, like incorrect API contracts or database interaction errors.
+
+  - from: Integration Testing
+    from_difficulty: 3
+    to: End-to-End Testing
+    to_difficulty: 3
+    track: Automation
+    reason: End-to-end testing simulates real user workflows in a browser — it's the highest-confidence test type and catches issues that only appear when the full system is running together.
+
+  - from: Selenium
+    from_difficulty: 3
+    to: Playwright
+    to_difficulty: 3
+    track: Automation
+    reason: Playwright is the modern replacement for Selenium — it's faster, more reliable, supports multiple browsers natively, and has a much better developer experience for writing browser automation tests.
+
+  - from: UI/UX Basics
+    from_difficulty: 1
+    to: Responsive Design
+    to_difficulty: 2
+    track: Design
+    reason: Responsive design ensures your application looks and works well on all screen sizes — with over 60% of web traffic coming from mobile, it is no longer optional for any frontend developer.
+
+  - from: Responsive Design
+    from_difficulty: 2
+    to: Accessibility
+    to_difficulty: 2
+    track: Design
+    reason: Accessibility ensures your application can be used by people with disabilities — it is a legal requirement in many countries and improves usability for all users, not just those with specific needs.
