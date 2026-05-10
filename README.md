@@ -3,6 +3,9 @@
 > **An intelligent, LLM-powered career skill recommendation engine backed by a self-growing Neo4j Knowledge Graph.**
 
 ---
+<img width="1280" height="752" alt="image" src="https://github.com/user-attachments/assets/3652a39a-09f5-4649-924b-02d215ded921" />
+
+---
 
 ## 📋 Table of Contents
 
